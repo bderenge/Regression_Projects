@@ -3,7 +3,7 @@
     "path": "~/GitHub/Regression_Projects/circuit.Rmd",
     "project_path": "circuit.Rmd",
     "type": "r_markdown",
-    "hash": "3269861546",
+    "hash": "1530553770",
     "contents": "",
     "dirty": false,
     "created": 1668451836884.0,
@@ -13,16 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "31,0",
-        "scrollLine": "33",
-        "last_setup_crc32": "FC688C28bb338d19"
+        "cursorPosition": "98,24",
+        "scrollLine": "96",
+        "last_setup_crc32": "386DB5E0bb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1668487410,
+    "lastKnownWriteTime": 1669481417,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1668487410591,
+    "last_content_update": 1669481417148,
     "read_only": false,
     "read_only_alternatives": []
 }

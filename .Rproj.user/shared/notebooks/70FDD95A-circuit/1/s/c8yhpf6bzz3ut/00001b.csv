@@ -1,0 +1,80 @@
+"1","
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/tidymodels_1.0.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 116820 bytes (114 KB)
+"
+"2","downloaded 114 KB
+
+"
+"1","package ‘tidymodels’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\bdere\AppData\Local\Temp\Rtmp0CFPWi\downloaded_packages"
+"1",""
+"1","
+"
+"2","installing the source package ‘workflows’
+
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/workflows_1.1.2.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 104914 bytes (102 KB)
+"
+"2","downloaded 102 KB
+
+"
+"1","* installing *source* package 'workflows' ...
+"
+"1","** package 'workflows' successfully unpacked and MD5 sums checked
+"
+"1","** using staged installation
+"
+"1","** R
+"
+"1","** inst
+"
+"1","** byte-compile and prepare package for lazy loading
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","*** copying figures
+"
+"1","** building package indices
+"
+"1","** installing vignettes
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (workflows)
+"
+"2","
+"
+"2",""
+"2","The downloaded source packages are in
+	‘C:\Users\bdere\AppData\Local\Temp\Rtmp0CFPWi\downloaded_packages’"
+"2",""
+"2","
+"
+"2","
+tidymodels installed
+"
+"2","Warning: package ‘tidymodels’ was built under R version 4.2.2"
+"2","Warning: package ‘dials’ was built under R version 4.2.2"
+"2","Warning: package ‘infer’ was built under R version 4.2.2"
+"2","Warning: package ‘modeldata’ was built under R version 4.2.2"
+"2","Warning: package ‘parsnip’ was built under R version 4.2.2"
+"2","Warning: package ‘tune’ was built under R version 4.2.2"
+"2","Warning: package ‘workflowsets’ was built under R version 4.2.2"
+"2","Warning: package ‘yardstick’ was built under R version 4.2.2"
